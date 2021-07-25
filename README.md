@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <center>
-[![dhzdhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhzdhd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[dhzdhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhzdhd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
