@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cpp,cmake,html,swift,kotlin,objective-c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on: Stockify, black_tortoise app
+- 🔭 I’m currently working on: Stockify, FlixCard app
 - 🌱 I’m currently learning: JS, Rust, C
 - 👯 I’m looking to collaborate on: Discord bots / User Interfaces in python/dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
