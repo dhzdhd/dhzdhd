@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: Stockify, InstaCalc, FlixCard app
 - 💻 I currently know JS, CSS, HTML, Python, Rust, Julia, Dart, F#, C, C++, QML and a bit of R
-- 🌱 I’m currently learning: JS, Rust, C
+- 🌱 I’m currently learning: C, F#, slowly getting into Elixir
 - 👯 I’m looking to collaborate on: Discord bots | UI in dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
 - 😄 Pronouns: he/him
