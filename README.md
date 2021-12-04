@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,html,swift,kotlin,objective-c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on: Stockify, InstaCalc, FlixCard app
-- 💻 I currently know JS, CSS, HTML, Python, Rust, Julia, Dart, F#, C, C++, QML and a bit of R
+- 💻 I currently know JS, CSS, HTML, Python, Rust, Julia, Dart, F#, C, C++, QML, Dyalog APL and a bit of R
 - 🌱 I’m currently learning: C, F#, slowly getting into Elixir
 - 👯 I’m looking to collaborate on: Discord bots | UI in dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
