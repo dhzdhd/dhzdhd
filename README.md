@@ -10,3 +10,4 @@
 - 👯 I’m looking to collaborate on: Discord bots | UI in dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
 - 😄 Pronouns: he/him
+- 🕸️ My site: dhzdhd.github.io/portfolio
