@@ -8,7 +8,7 @@ A slightly less accurate pic with more data
 ![](https://github.com/dhzdhd/github-stats/blob/master/generated/overview.svg?raw=true)
 
 - 🔭 I’m currently working on: Stockify, InstaCalc, FlixCard app
-- 💻 I currently know JS, TS, CSS, Sass, HTML, Python, Rust, Julia, Dart, F#, C, C++, D, QML and a bit of R, Dyalog APL
+- 💻 I currently know JS, TS, CSS, Sass, HTML, Python, Rust, Julia, Dart, F#, C, C++, D, QML and a bit of R, Dyalog APL, OCaml
 - 🌱 I’m currently learning: C, F#, D
 - 👯 I’m looking to collaborate on: Discord bots | UI in dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
