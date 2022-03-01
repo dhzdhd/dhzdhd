@@ -9,7 +9,7 @@ A slightly less accurate pic with more data
 
 - 🔭 I’m currently working on: Stockify, InstaCalc, FlixCard app
 - 💻 I currently know JS, TS, CSS, Sass, HTML, Python, Rust, Julia, Dart, F#, Elm, C, C++, D, QML and a bit of R, Dyalog APL, OCaml
-- 🌱 I’m currently learning: C, F#, D
+- 🌱 I’m currently learning: F#, D, Elm
 - 👯 I’m looking to collaborate on: Discord bots | UI in dart 
 - 📫 How to reach me: Discord - `dhzdhd#2244`
 - 😄 Pronouns: he/him
