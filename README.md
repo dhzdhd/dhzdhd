@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![dhzdhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhzdhd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,swift,javascript,c++,cpp,cplusplus,kotlin,css,objective-c,Vim+script,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,swift,javascript,kotlin,css,objective-c,Vim+script,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/dhzdhd/github-stats/blob/master/generated/overview.svg?raw=true)
 
 - 🔭 I’m currently working on: Maintaining my bot, working on random projects.
