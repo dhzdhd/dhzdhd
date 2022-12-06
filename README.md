@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github.com/dhzdhd/github-stats/blob/master/generated/overview.svg?raw=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,c%2B%2B,swift,javascript,kotlin,css,objective-c,Vim+script,svelte,powershell,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhzdhd&theme=dracula&layout=compact&hide=cmake,c%2B%2B,swift,javascript,kotlin,css,objective-c,Vim+script,svelte,powershell,qml,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on: Maintaining my bot, working on random projects.
 - 💻 I currently know JS, TS, Elm, F#, Python, Dart, C and dabble in various other languages.
