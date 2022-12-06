@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: Maintaining my bot, working on random projects.
 - 💻 I currently know JS, TS, Elm, F#, Python, Dart, C and dabble in various other languages.
-- 🌱 I’m currently learning: Clojure
+- 🌱 I’m currently learning: Haskell
 - 👯 I’m looking to collaborate on: Any web/app development
 - 📫 How to reach me: Discord - `dhzdhd#2244`
 - 😄 Pronouns: he/him
