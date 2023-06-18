@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on: Any web/app development
 - 📫 How to reach me: Discord - `dhzdhd#2244`
 - 😄 Pronouns: he/him
-- 🕸️ My site: [Portfolio](https://portfolio-9sb.pages.dev/)
+- 🕸️ My site: [Portfolio](https://dhzdhd-portfolio.vercel.app/)
