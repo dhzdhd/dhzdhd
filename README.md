@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on: Web/App dev, do a bit of DevOps and am very interested in ML, language dev and physics simulations 
 - 🌱 I’m currently learning: ML
 - 📫 How to reach me: Discord - `dhzdhd`
-- 🕸️ My site: [Portfolio](https://dhzdhd-portfolio.vercel.app/)
+- 🕸️ My site: [Portfolio](https://www.dhzdhd.dev/)
 
 [![An image of @dhzdhd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhzdhd)](https://holopin.io/@dhzdhd)
